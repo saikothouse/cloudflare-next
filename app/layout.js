@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
       <body className="bg-gray-100 font-sans">
         <header className="bg-gradient-to-r from-indigo-500 to-blue-500 text-white p-4 shadow-md">
           <nav className="flex justify-between items-center max-w-6xl mx-auto">
-            <h1 className="text-xl font-bold">Contact Form App</h1>
+            <h1 className="text-xl font-bold">Nullbite Support</h1>
             <div className="space-x-4">
               <Link href="/" className="hover:underline">
                 Contact
